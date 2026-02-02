@@ -1,0 +1,5 @@
+phase1-data-stores/.terraform/providers/registry.terraform.io/azure/azapi/2.8.0/darwin_arm64/terraform-provider-azapi_v2.8.0
+phase1-data-stores/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.58.0/darwin_arm64/LICENSE.txt
+phase1-data-stores/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.58.0/darwin_arm64/terraform-provider-azurerm_v4.58.0_x5
+phase1-data-stores/.terraform.lock.hcl
+phase1-data-stores/terraform.tfvars
