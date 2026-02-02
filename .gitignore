@@ -35,3 +35,5 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+phase1-data-stores/.terraform.lock.hcl
+.DS_Store
