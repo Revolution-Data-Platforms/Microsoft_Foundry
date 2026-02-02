@@ -1,0 +1,21 @@
+# Configure the AzApi and AzureRM providers for Phase 3
+terraform {
+  required_providers {
+    azapi = {
+      source  = "azure/azapi"
+      version = "~> 2.5"
+    }
+    azurerm = {
+      source  = "hashicorp/azurerm"
+      version = "~> 4.37"
+    }
+    time = {
+      source  = "hashicorp/time"
+      version = "~> 0.13"
+    }
+  }
+  required_version = ">= 1.10.0, < 2.0.0"
+
+  # Uncomment to store state in Azure Storage
+  # backend "azurerm" {}
+}
